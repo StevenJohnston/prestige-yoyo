@@ -1,0 +1,23 @@
+c:\users\steven johnston\documents\visual studio 2015\Projects\Prestige YoYo\Prestige YoYo\bin\Debug\Prestige YoYo.exe.config
+c:\users\steven johnston\documents\visual studio 2015\Projects\Prestige YoYo\Prestige YoYo\bin\Debug\Prestige YoYo.exe
+c:\users\steven johnston\documents\visual studio 2015\Projects\Prestige YoYo\Prestige YoYo\bin\Debug\Prestige YoYo.pdb
+c:\users\steven johnston\documents\visual studio 2015\Projects\Prestige YoYo\Prestige YoYo\obj\Debug\Prestige YoYo.csprojResolveAssemblyReference.cache
+c:\users\steven johnston\documents\visual studio 2015\Projects\Prestige YoYo\Prestige YoYo\obj\Debug\Prestige_YoYo.frmPrestigeYoYo.resources
+c:\users\steven johnston\documents\visual studio 2015\Projects\Prestige YoYo\Prestige YoYo\obj\Debug\Prestige_YoYo.Properties.Resources.resources
+c:\users\steven johnston\documents\visual studio 2015\Projects\Prestige YoYo\Prestige YoYo\obj\Debug\Prestige YoYo.csproj.GenerateResource.Cache
+c:\users\steven johnston\documents\visual studio 2015\Projects\Prestige YoYo\Prestige YoYo\obj\Debug\Prestige YoYo.exe
+c:\users\steven johnston\documents\visual studio 2015\Projects\Prestige YoYo\Prestige YoYo\obj\Debug\Prestige YoYo.pdb
+C:\Users\Steven Johnston\Documents\Visual Studio 2015\Projects\Prestige YoYo\Prestige YoYo\Prestige YoYo\bin\Debug\Prestige YoYo.exe.config
+C:\Users\Steven Johnston\Documents\Visual Studio 2015\Projects\Prestige YoYo\Prestige YoYo\Prestige YoYo\obj\Debug\Prestige YoYo.exe
+C:\Users\Steven Johnston\Documents\Visual Studio 2015\Projects\Prestige YoYo\Prestige YoYo\Prestige YoYo\obj\Debug\Prestige YoYo.pdb
+C:\Users\Steven Johnston\Documents\Visual Studio 2015\Projects\Prestige YoYo\Prestige YoYo\Prestige YoYo\bin\Debug\Prestige YoYo.exe
+C:\Users\Steven Johnston\Documents\Visual Studio 2015\Projects\Prestige YoYo\Prestige YoYo\Prestige YoYo\bin\Debug\Prestige YoYo.pdb
+C:\Users\Steven Johnston\Documents\Visual Studio 2015\Projects\Prestige YoYo\Prestige YoYo\Prestige YoYo\obj\Debug\Prestige YoYo.csprojResolveAssemblyReference.cache
+C:\Users\Steven Johnston\Documents\Visual Studio 2015\Projects\Prestige YoYo\Prestige YoYo\Prestige YoYo\obj\Debug\Prestige_YoYo.frmPrestigeYoYo.resources
+C:\Users\Steven Johnston\Documents\Visual Studio 2015\Projects\Prestige YoYo\Prestige YoYo\Prestige YoYo\obj\Debug\Prestige_YoYo.Properties.Resources.resources
+C:\Users\Steven Johnston\Documents\Visual Studio 2015\Projects\Prestige YoYo\Prestige YoYo\Prestige YoYo\obj\Debug\Prestige YoYo.csproj.GenerateResource.Cache
+C:\Users\Steven Johnston\Documents\Visual Studio 2015\Projects\Prestige YoYo\Prestige YoYo\Prestige YoYo\obj\Debug\Prestige_YoYo.Login.resources
+C:\Users\Steven Johnston\Documents\Visual Studio 2015\Projects\Prestige YoYo\Prestige YoYo\Prestige YoYo\obj\Debug\Prestige_YoYo.Admin.resources
+C:\Users\Steven Johnston\Documents\Visual Studio 2015\Projects\Prestige YoYo\Prestige YoYo\Prestige YoYo\obj\Debug\Prestige_YoYo.General_User.resources
+C:\Users\Steven Johnston\Documents\Visual Studio 2015\Projects\Prestige YoYo\Prestige YoYo\Prestige YoYo\obj\Debug\Prestige_YoYo.frmSelectFactory.resources
+C:\Users\Steven Johnston\Documents\Visual Studio 2015\Projects\Prestige YoYo\Prestige YoYo\Prestige YoYo\obj\Debug\Prestige_YoYo.frmSelectStation.resources
